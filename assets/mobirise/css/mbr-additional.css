@@ -8556,6 +8556,22 @@ a {
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
+.cid-sN0XMIQYLe {
+  padding-top: 3rem;
+  padding-bottom: 4rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sN0XMIQYLe .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sN0XMIQYLe .row {
+  flex-direction: row-reverse;
+}
+.cid-sN0XMIQYLe img {
+  width: 100%;
+}
 .cid-sN0nsyw41G {
   padding-top: 2rem;
   padding-bottom: 0rem;
